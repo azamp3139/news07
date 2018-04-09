@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/news_cnn"
+
+        android:title="@string/news_cnn"
+        />
+
+    <item
+        android:id="@+id/news_espn"
+
+        android:title="@string/news_espn"
+        />
+    <item
+        android:id="@+id/news_google"
+
+        android:title="@string/news_google"
+        />
+    <item
+        android:id="@+id/news_mtv"
+
+        android:title="@string/news_mtv"
+        />
+    <item
+        android:id="@+id/news_newYorkTimes"
+
+        android:title="@string/news_newYorkTimes"
+        />
+
+</menu>
